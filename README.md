@@ -1,5 +1,21 @@
 # JWOOD-SNHU-CS-Portfolio
 
+# CS 250 - Software Development Life Cycle
+
+`How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?`
+
+The process of requirements gathering helps to distill functional requirements from discussions with users and other stakeholders into a simple checklist. Assembling that checklist into user stories aids in the tracking of progress, and testing whether or not the users' needs are met by the product.
+
+`How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?`
+
+Application development is the process of building a solution to meet a set of specifications. The iterative approach of agile methodologies helps to deliver value in small increments over time, rather than attempting to build the whole solution in one "long sprint". This allows for gradual progress towards the customers' goals, without the risk that the end product is not what the customer envisioned from the beginning. I have, and will continue to implement an iterative approach to my personal projects and business endeavors.
+
+`What does it mean to be a good team member in software development?`
+
+A good team member is someone who does their part, helps others, and does their best to ensure that the work they produce helps to push the poject as a whole in the right direction.
+
+# CS 230 - Operating Platforms
+
 `Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?`
 
 The Gaming Room was a CTS client that sought to create a multi-platform game called "Draw It or Lose It", allowing players on desktop and mobile platforms to play together in a "Win, Lose, or Draw" style game where players attempt to guess the subject of a drawing as it is gradually uncovered. The game supported team and solo play, a web version, and IOS and Android applications, and was fun to work on.
