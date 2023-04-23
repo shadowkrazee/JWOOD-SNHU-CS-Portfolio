@@ -2,7 +2,25 @@
 
 # CS 255 - System Analysis and Design
 
-`More to come soon...`
+`Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?`
+
+DriverPass is a learning platform with the aim of educating new drivers through online courses and in-person lessons so that they can confidently pass their driving test the first time, and their parents have some peace of mind knowing their kids have all of the knowledge required to stay safe on the road.
+
+`What did you do particularly well?`
+
+I learned alot about the different types of diagrams used to illustrate the components, use cases, and sequences involved in an application like this. I feel that I did well with these diagrams.
+
+`If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?`
+
+I don't think there's any area in particular that needs revsision or improvement.
+
+`How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?`
+
+Most of the customer's needs were extracted from transcripts of in-person interviews, turned into functional and non-functional requirements, and compiled into requirement documents, diagrams, and a plan to execute the project. It is important to consider the users' needs because the entire reason they came to you was to have a need fulfilled, and if you can satisfy a customer's needs, they're likely to recommend your services to other potential customers.
+
+`How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?`
+
+In order to have a cohesive, well thought out solution, you must first understand the problem. Analysis and requirements gathering ensure that the planned solution will satisfy all of the needs, then all that's left is to set the plan in motion, and try to keep the train on the tracks. In the future I will try and focus a bit more on the requirements and planning portion of my projects a bit more, as I think it will increase the quality of the finished product.
 
 # CS 250 - Software Development Life Cycle
 
