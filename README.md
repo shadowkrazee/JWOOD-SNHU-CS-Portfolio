@@ -4,11 +4,20 @@
 
 `Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?`
 
+Artemis Financial is a consulting company that develops individualized financial plans for their customers. The financial plans include savings, retirement, investments, and insurance.
+Global Rain helped this client to ensure the security of their applications using various software security best practices.
+
 `What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?`
+
+Once the vulnerabilities are identified, implementing the fixes is my favorite part. Code security is a huge deal because every aspect of our lives is (or will be) dependent on software these days, and when that software is designed with security at the forefront, we all benefit. Less data breaches, less personal info leaked, less vulnerability to attacks and exploints that can interrupt services, etc. This security adds value to a company by reducing the likelihood of outages and cyber attacks / data leaks, reducing the risk and liability assumed by creating the software solution in the first place.
 
 `What part of the vulnerability assessment was challenging or helpful to you?`
 
+As a developer, the reports and "paperwork" aspect of this process was a challenge to me, as I vastly prefer solving problems and coding over the more "human" aspects of the field.
+
 `How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?`
+
+
 
 `How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?`
 
