@@ -17,13 +17,19 @@ As a developer, the reports and "paperwork" aspect of this process was a challen
 
 `How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?`
 
-
+I increased security by implementing HTTPS using self-signed RSA keys, and providing file authenticity validation using the SHA-256 hashing algorithm.
 
 `How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?`
 
+Security implementations were validated by testing the functionality, and through use of static code analysis tools from OWASP before and after implementation.
+
 `What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks`
 
+Use of hashing algorithms, static code analysis, key generation and HTTPS implementation are all useful skills when it comes to developing a secure application, or securing an existing one.
+
 `Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?`
+
+The Project 2 "Secure Software Report" and codebase would definitely be the big one from this class. The tasking combined much of what we learned through the course into one codebase so we got to apply everything we learned to a "real-life" scenario.
 
 # CS 255 - System Analysis and Design
 
